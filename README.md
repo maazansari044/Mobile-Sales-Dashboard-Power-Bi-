@@ -52,3 +52,5 @@ The dashboard analyzes mobile sales data from 2021 to 2024 and provides insights
 ## Objective
 
 The objective of this project is to transform raw mobile sales data into an interactive business intelligence dashboard that helps understand sales performance and customer purchasing patterns.
+
+
